@@ -12,7 +12,7 @@ Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/ishaq0112/qr-code-generator
-cd 
+cd qr-code-generator
 npm install
 ```
 
