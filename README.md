@@ -11,7 +11,7 @@ A simple command-line tool that asks for a URL and generates a QR code image for
 Clone the repo and install dependencies:
 
 ```bash
-git clone 
+git clone https://github.com/ishaq0112/qr-code-generator
 cd 
 npm install
 ```
